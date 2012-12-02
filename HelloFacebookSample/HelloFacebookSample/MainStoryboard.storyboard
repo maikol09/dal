@@ -119,7 +119,6 @@
                             <constraint firstItem="LT5-0s-aen" firstAttribute="top" secondItem="vaX-l2-cUL" secondAttribute="top" type="default" id="B0G-A4-RRB"/>
                             <constraint firstAttribute="bottom" secondItem="fjW-Bc-Tn9" secondAttribute="bottom" constant="226" id="C6E-vJ-LK1"/>
                             <constraint firstItem="7PN-0g-Td3" firstAttribute="trailing" secondItem="oXN-i2-WJq" secondAttribute="trailing" type="default" id="CJM-oo-qTL"/>
-                            <constraint firstItem="CSw-ta-KIJ" firstAttribute="leading" secondItem="LT5-0s-aen" secondAttribute="leading" type="default" id="Ch2-fZ-GAR"/>
                             <constraint firstAttribute="trailing" secondItem="QMM-BA-CWP" secondAttribute="trailing" constant="22" id="D5G-U9-bA9"/>
                             <constraint firstItem="CSw-ta-KIJ" firstAttribute="leading" secondItem="fjW-Bc-Tn9" secondAttribute="leading" type="default" id="Ebh-Ua-Ork"/>
                             <constraint firstItem="vaA-kX-gnI" firstAttribute="leading" secondItem="FSN-s6-cTv" secondAttribute="leading" type="default" id="Fc8-zM-YMh"/>
@@ -138,18 +137,20 @@
                             <constraint firstItem="S0J-w2-6Ca" firstAttribute="trailing" secondItem="qnO-Kp-S0q" secondAttribute="trailing" type="default" id="SSg-L8-BCf"/>
                             <constraint firstItem="zIR-iR-k1R" firstAttribute="leading" secondItem="QMM-BA-CWP" secondAttribute="leading" type="default" id="VeC-l5-j5G"/>
                             <constraint firstItem="vaX-l2-cUL" firstAttribute="leading" secondItem="mRT-dF-7XS" secondAttribute="leading" constant="316" id="Vnq-fx-qRh"/>
+                            <constraint firstAttribute="trailing" secondItem="ZDY-UU-09j" secondAttribute="trailing" constant="55" id="WJ5-0s-GeN"/>
                             <constraint firstItem="aH7-Ic-ijN" firstAttribute="top" secondItem="bgR-Pd-Dj4" secondAttribute="top" type="default" id="Xcj-KH-b7q"/>
-                            <constraint firstItem="CSw-ta-KIJ" firstAttribute="trailing" secondItem="LT5-0s-aen" secondAttribute="trailing" type="default" id="XvP-QD-cSl"/>
                             <constraint firstItem="S0J-w2-6Ca" firstAttribute="leading" secondItem="Ylo-LD-kK1" secondAttribute="leading" type="default" id="YTe-M4-fJw"/>
                             <constraint firstAttribute="bottom" secondItem="7PN-0g-Td3" secondAttribute="bottom" constant="81" id="YmD-mp-8KI"/>
                             <constraint firstItem="abD-GL-Dm3" firstAttribute="centerX" secondItem="7PN-0g-Td3" secondAttribute="centerX" type="default" id="aBT-G4-foV"/>
                             <constraint firstItem="ipt-QR-ALt" firstAttribute="bottom" secondItem="abD-GL-Dm3" secondAttribute="bottom" type="default" id="bOx-xl-kOM"/>
                             <constraint firstItem="CSw-ta-KIJ" firstAttribute="trailing" secondItem="fjW-Bc-Tn9" secondAttribute="trailing" type="default" id="cho-mr-930"/>
                             <constraint firstItem="aH7-Ic-ijN" firstAttribute="leading" secondItem="mRT-dF-7XS" secondAttribute="leading" constant="22" id="d26-pC-wg5"/>
+                            <constraint firstItem="LT5-0s-aen" firstAttribute="leading" secondItem="fjW-Bc-Tn9" secondAttribute="leading" type="default" id="dYp-53-f04"/>
                             <constraint firstItem="LT5-0s-aen" firstAttribute="bottom" secondItem="vaX-l2-cUL" secondAttribute="bottom" type="default" id="f5q-re-OQG"/>
                             <constraint firstItem="W3Y-1S-JRE" firstAttribute="centerX" secondItem="Ylo-LD-kK1" secondAttribute="centerX" type="default" id="fvo-uA-PET"/>
                             <constraint firstItem="QMM-BA-CWP" firstAttribute="top" secondItem="bgR-Pd-Dj4" secondAttribute="top" type="default" id="g82-7Z-rpx"/>
                             <constraint firstItem="FSN-s6-cTv" firstAttribute="centerX" secondItem="CSw-ta-KIJ" secondAttribute="centerX" type="default" id="gHh-vN-XeK"/>
+                            <constraint firstItem="fjW-Bc-Tn9" firstAttribute="trailing" secondItem="LT5-0s-aen" secondAttribute="trailing" type="default" id="gX2-LV-egy"/>
                             <constraint firstItem="dUu-iY-0Di" firstAttribute="trailing" secondItem="zIR-iR-k1R" secondAttribute="trailing" type="default" id="gnI-9W-7fF"/>
                             <constraint firstAttribute="trailing" secondItem="nFr-GN-ada" secondAttribute="trailing" constant="44" id="h4m-x0-Iue"/>
                             <constraint firstItem="HNV-Ga-Eyk" firstAttribute="leading" secondItem="mRT-dF-7XS" secondAttribute="leading" type="default" id="hdY-78-eRS"/>
@@ -172,7 +173,6 @@
                             <constraint firstAttribute="trailing" secondItem="bgR-Pd-Dj4" secondAttribute="trailing" constant="282" id="xfP-rQ-fP5"/>
                             <constraint firstItem="vaA-kX-gnI" firstAttribute="trailing" secondItem="FSN-s6-cTv" secondAttribute="trailing" type="default" id="xiu-9c-25G"/>
                             <constraint firstItem="HNV-Ga-Eyk" firstAttribute="top" secondItem="mRT-dF-7XS" secondAttribute="top" type="default" id="yJM-2l-hnQ"/>
-                            <constraint firstAttribute="trailing" secondItem="ZDY-UU-09j" secondAttribute="trailing" constant="55" id="zJN-se-21O"/>
                         </constraints>
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     </view>
@@ -342,7 +342,16 @@
                                     <constraint firstAttribute="height" constant="201" id="x9P-ye-jSz"/>
                                     <constraint firstAttribute="width" constant="391" id="xcA-xa-KKI"/>
                                 </constraints>
-                                <string key="text">Pollo: 1 unidadArroz: 1/2 kiloTomate: 2 unidadesZanahoria: 2 unidadesChile dulce: 1/2 unidadCulantro: al gustoCebolla: 2 unidadesSalsa inglesa: 2 cucharasAceite: 4 cucharasSal: 1 cucharita</string>
+                                <string key="text">Pollo: 1 unidad
+Arroz: 1/2 kilo
+Tomate: 2 unidades
+Zanahoria: 2 unidades
+Chile dulce: 1/2 unidad
+Culantro: al gusto
+Cebolla: 2 unidades
+Salsa inglesa: 2 cucharas
+Aceite: 4 cucharas
+Sal: 1 cucharita</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -352,7 +361,9 @@
                                     <constraint firstAttribute="width" constant="391" id="LKt-yt-IGz"/>
                                     <constraint firstAttribute="height" constant="227" id="yBB-LQ-39K"/>
                                 </constraints>
-                                <mutableString key="text">Cocinamos el arroz con la zanahorias y el agua del pollo (previamente cocinado).Para preparar la salsa, se sofrie la cebolla, luego vamos poniendo el chile, apio, tomate, perejil, y el culantro junto con todas las especias, como son la pimienta, salsa lizano, comino, sal, y por último la pasta de tomate. Se deja sudar a fuego lento.El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta lista, le colocamos el pollo y lo dejamos sudar por 2 minutos a fuego lento. Se le incorpora poco a poco el arroz y se revuelve muy bien. Se deja reposar un poco tapado para que sude.</mutableString>
+                                <string key="text">Cocinamos el arroz con la zanahorias y el agua del pollo (previamente cocinado).
+Para preparar la salsa, se sofrie la cebolla, luego vamos poniendo el chile, apio, tomate, perejil, y el culantro junto con todas las especias, como son la pimienta, salsa lizano, comino, sal, y por último la pasta de tomate. Se deja sudar a fuego lento.
+El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta lista, le colocamos el pollo y lo dejamos sudar por 2 minutos a fuego lento. Se le incorpora poco a poco el arroz y se revuelve muy bien. Se deja reposar un poco tapado para que sude.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -673,75 +684,6 @@
         <image name="yuca.png" width="201" height="200"/>
         <image name="zanahoria.png" width="201" height="200"/>
     </resources>
-    <classes>
-        <class className="CarnesViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/CarnesViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="imgCarnes01" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes02" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes03" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes04" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes05" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes06" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes07" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes08" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes09" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes10" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes11" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCarnes12" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-        <class className="CategoriasViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/CategoriasViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="imgCategoria01" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCategoria02" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCategoria03" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCategoria04" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCategoria05" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgCategoria06" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-        <class className="ListaRecetasViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/ListaRecetasViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="pListaRecetas" candidateClass="UITableView"/>
-            </relationships>
-        </class>
-        <class className="NSLayoutConstraint" superclassName="NSObject">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
-        </class>
-        <class className="PreparacionViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/PreparacionViewController.h"/>
-            <relationships>
-                <relationship kind="action" name="actionTweet:"/>
-                <relationship kind="action" name="back_button:"/>
-                <relationship kind="action" name="fbButtonClicked:"/>
-                <relationship kind="outlet" name="ingredientesReceta" candidateClass="UITextView"/>
-                <relationship kind="outlet" name="mainImage" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="preparacionReceta" candidateClass="UITextView"/>
-                <relationship kind="outlet" name="tituloReceta" candidateClass="UILabel"/>
-                <relationship kind="outlet" name="tweetButton" candidateClass="UIButton"/>
-            </relationships>
-        </class>
-        <class className="VegetalesViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/VegetalesViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="imgVegetales01" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales02" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales03" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales04" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales05" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales06" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales07" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales08" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales09" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales10" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales11" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="imgVegetales12" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackTranslucent"/>
         <simulatedOrientationMetrics key="orientation"/>

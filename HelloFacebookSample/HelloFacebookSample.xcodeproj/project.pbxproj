@@ -27,6 +27,7 @@
 		85C69D901602B0D3008AD9A0 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C69D8D1602B0D3008AD9A0 /* Default.png */; };
 		85C69D911602B0D3008AD9A0 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C69D8E1602B0D3008AD9A0 /* Default@2x.png */; };
 		B9A4168716113ED6001E7A77 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9A4168616113ED6001E7A77 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		C902168B166C095F00942CE4 /* adelante_carnes.png in Resources */ = {isa = PBXBuildFile; fileRef = C902168A166C095F00942CE4 /* adelante_carnes.png */; };
 		C9156A63166A90F200F39BF2 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9156A62166A90F200F39BF2 /* AudioToolbox.framework */; };
 		C9156A66166A90FF00F39BF2 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9156A65166A90FF00F39BF2 /* CFNetwork.framework */; };
 		C9156A68166A912A00F39BF2 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C9156A67166A912A00F39BF2 /* libsqlite3.dylib */; };
@@ -172,6 +173,7 @@
 		85C69D8D1602B0D3008AD9A0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		85C69D8E1602B0D3008AD9A0 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		B9A4168616113ED6001E7A77 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		C902168A166C095F00942CE4 /* adelante_carnes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = adelante_carnes.png; sourceTree = "<group>"; };
 		C9156A62166A90F200F39BF2 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		C9156A65166A90FF00F39BF2 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		C9156A67166A912A00F39BF2 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
@@ -386,6 +388,7 @@
 		5F6AF1941532A37B00DDBD75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C902168A166C095F00942CE4 /* adelante_carnes.png */,
 				C9F76AD8166BEEF300A3CC3E /* sopa_de_tortilla.png */,
 				C9F76AD6166BE97300A3CC3E /* sabias_que_tomate.png */,
 				C9F76AD4166BE96E00A3CC3E /* sabias_que_carne.png */,
@@ -698,6 +701,7 @@
 				C9F76AD5166BE96E00A3CC3E /* sabias_que_carne.png in Resources */,
 				C9F76AD7166BE97300A3CC3E /* sabias_que_tomate.png in Resources */,
 				C9F76AD9166BEEF300A3CC3E /* sopa_de_tortilla.png in Resources */,
+				C902168B166C095F00942CE4 /* adelante_carnes.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
