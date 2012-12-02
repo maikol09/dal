@@ -465,14 +465,16 @@ El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta 
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="rotulo_leche.png" translatesAutoresizingMaskIntoConstraints="NO" id="bdw-Bq-QpY"/>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="rotulo_res.png" translatesAutoresizingMaskIntoConstraints="NO" id="xSc-BS-Mti"/>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="rotulo_salchichon.png" translatesAutoresizingMaskIntoConstraints="NO" id="FKB-4E-ZfN"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="rotulo_salchicha.png" translatesAutoresizingMaskIntoConstraints="NO" id="VJg-09-ChJ"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="rotulo_mortadela.png" translatesAutoresizingMaskIntoConstraints="NO" id="4O7-qz-C8K"/>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="RU4-xb-5zT" firstAttribute="leading" secondItem="v99-Ic-2vk" secondAttribute="leading" type="default" id="1Eu-GK-JUs"/>
-                            <constraint firstAttribute="trailing" secondItem="SGg-gt-TQa" secondAttribute="trailing" constant="282" id="1RV-9Q-Er8"/>
                             <constraint firstItem="ity-xE-cSq" firstAttribute="trailing" secondItem="beN-mY-r0Y" secondAttribute="trailing" type="default" id="1TP-Kq-nLG"/>
                             <constraint firstItem="oXK-BX-Cqd" firstAttribute="bottom" secondItem="qwv-iB-Jpg" secondAttribute="bottom" type="default" id="22k-Hw-9f6"/>
                             <constraint firstItem="dFp-HL-vcG" firstAttribute="trailing" secondItem="CXi-Oz-nfN" secondAttribute="trailing" type="default" id="2O8-Nt-Ky4"/>
+                            <constraint firstItem="VJg-09-ChJ" firstAttribute="leading" secondItem="bdw-Bq-QpY" secondAttribute="leading" type="default" id="2Q9-fD-HH4"/>
                             <constraint firstItem="xSc-BS-Mti" firstAttribute="leading" secondItem="FcJ-qz-GpM" secondAttribute="leading" type="default" id="5Nw-T4-9PY"/>
                             <constraint firstAttribute="bottom" secondItem="ity-xE-cSq" secondAttribute="bottom" constant="91" id="6o4-Wm-Yrn"/>
                             <constraint firstItem="k2m-ky-VaR" firstAttribute="leading" secondItem="GYh-v3-6n4" secondAttribute="leading" type="default" id="8Cd-QP-xRd"/>
@@ -487,37 +489,41 @@ El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta 
                             <constraint firstAttribute="trailing" secondItem="SLO-Kq-PNX" secondAttribute="trailing" constant="306" id="Lbw-0M-WIq"/>
                             <constraint firstItem="v99-Ic-2vk" firstAttribute="leading" secondItem="SGg-gt-TQa" secondAttribute="leading" type="default" id="Mfw-Wh-DX1"/>
                             <constraint firstItem="oXK-BX-Cqd" firstAttribute="leading" secondItem="qwv-iB-Jpg" secondAttribute="leading" type="default" id="NQv-J4-aV8"/>
-                            <constraint firstAttribute="bottom" secondItem="0pU-CU-A92" secondAttribute="bottom" constant="47" id="OcU-Pt-cZg"/>
                             <constraint firstItem="SLO-Kq-PNX" firstAttribute="top" secondItem="CM9-BH-TJ3" secondAttribute="top" type="default" id="Q27-pS-LQm"/>
                             <constraint firstItem="CXi-Oz-nfN" firstAttribute="top" secondItem="qQK-rq-S5E" secondAttribute="top" type="default" id="Qvq-gP-u8A"/>
                             <constraint firstItem="ity-xE-cSq" firstAttribute="leading" secondItem="beN-mY-r0Y" secondAttribute="leading" type="default" id="Qwi-1y-BYH"/>
                             <constraint firstAttribute="trailing" secondItem="aMb-nU-e4m" secondAttribute="trailing" constant="45" id="RY3-bs-341"/>
+                            <constraint firstAttribute="trailing" secondItem="SGg-gt-TQa" secondAttribute="trailing" constant="282" id="Rcm-j9-y6z"/>
                             <constraint firstItem="Ph9-VD-LUS" firstAttribute="top" secondItem="jJL-0Q-Bn5" secondAttribute="top" type="default" id="RuJ-Uu-D3A"/>
                             <constraint firstItem="beN-mY-r0Y" firstAttribute="leading" secondItem="qQK-rq-S5E" secondAttribute="leading" type="default" id="SX5-cm-yU0"/>
                             <constraint firstItem="dFp-HL-vcG" firstAttribute="leading" secondItem="CXi-Oz-nfN" secondAttribute="leading" type="default" id="TJZ-ay-hiX"/>
                             <constraint firstItem="btK-EF-Jpk" firstAttribute="top" secondItem="ity-xE-cSq" secondAttribute="top" type="default" id="Tgb-Fq-dqy"/>
+                            <constraint firstItem="4O7-qz-C8K" firstAttribute="top" secondItem="FKB-4E-ZfN" secondAttribute="top" type="default" id="UN2-WN-nFN"/>
                             <constraint firstItem="qQK-rq-S5E" firstAttribute="leading" secondItem="qwv-iB-Jpg" secondAttribute="leading" constant="22" id="VMC-EK-Bia"/>
                             <constraint firstItem="RU4-xb-5zT" firstAttribute="trailing" secondItem="v99-Ic-2vk" secondAttribute="trailing" type="default" id="Vfd-a3-5Du"/>
+                            <constraint firstItem="VJg-09-ChJ" firstAttribute="top" secondItem="0pU-CU-A92" secondAttribute="top" type="default" id="Whg-DE-X8m"/>
                             <constraint firstItem="CM9-BH-TJ3" firstAttribute="top" secondItem="xSc-BS-Mti" secondAttribute="top" type="default" id="YuE-mq-5J9"/>
                             <constraint firstItem="v99-Ic-2vk" firstAttribute="top" secondItem="dFp-HL-vcG" secondAttribute="top" type="default" id="ZY8-LB-f3h"/>
                             <constraint firstItem="FKB-4E-ZfN" firstAttribute="leading" secondItem="Ph9-VD-LUS" secondAttribute="leading" type="default" id="avg-Vu-Veb"/>
+                            <constraint firstAttribute="bottom" secondItem="0pU-CU-A92" secondAttribute="bottom" constant="47" id="ayu-6p-6DL"/>
                             <constraint firstItem="RU4-xb-5zT" firstAttribute="top" secondItem="btK-EF-Jpk" secondAttribute="top" type="default" id="bmJ-Qi-yXO"/>
                             <constraint firstItem="btK-EF-Jpk" firstAttribute="trailing" secondItem="dFp-HL-vcG" secondAttribute="trailing" type="default" id="c2u-lc-0sT"/>
                             <constraint firstItem="0pU-CU-A92" firstAttribute="leading" secondItem="FcJ-qz-GpM" secondAttribute="leading" type="default" id="cpq-3P-b8F"/>
                             <constraint firstItem="GYh-v3-6n4" firstAttribute="top" secondItem="v99-Ic-2vk" secondAttribute="top" type="default" id="dIT-vb-rSl"/>
                             <constraint firstItem="beN-mY-r0Y" firstAttribute="top" secondItem="qwv-iB-Jpg" secondAttribute="top" constant="285" id="e9N-OU-KMi"/>
                             <constraint firstItem="btK-EF-Jpk" firstAttribute="leading" secondItem="dFp-HL-vcG" secondAttribute="leading" type="default" id="fte-ab-fgC"/>
-                            <constraint firstItem="FKB-4E-ZfN" firstAttribute="top" secondItem="0pU-CU-A92" secondAttribute="top" type="default" id="gZ6-Ux-Ywc"/>
                             <constraint firstItem="1ee-hk-KW8" firstAttribute="top" secondItem="CXi-Oz-nfN" secondAttribute="top" type="default" id="gsm-r9-fIt"/>
                             <constraint firstItem="v99-Ic-2vk" firstAttribute="trailing" secondItem="SGg-gt-TQa" secondAttribute="trailing" type="default" id="hgX-xm-FGi"/>
                             <constraint firstItem="k2m-ky-VaR" firstAttribute="trailing" secondItem="GYh-v3-6n4" secondAttribute="trailing" type="default" id="kup-YO-PtQ"/>
                             <constraint firstItem="oXK-BX-Cqd" firstAttribute="top" secondItem="qwv-iB-Jpg" secondAttribute="top" type="default" id="mwJ-A0-aCy"/>
                             <constraint firstItem="qQK-rq-S5E" firstAttribute="top" secondItem="qwv-iB-Jpg" secondAttribute="top" constant="88" id="pXi-eZ-WFd"/>
                             <constraint firstItem="SLO-Kq-PNX" firstAttribute="top" secondItem="qwv-iB-Jpg" secondAttribute="top" constant="255" id="pwy-cv-7Dy"/>
+                            <constraint firstItem="4O7-qz-C8K" firstAttribute="leading" secondItem="SLO-Kq-PNX" secondAttribute="leading" type="default" id="rLm-C2-mod"/>
                             <constraint firstItem="CM9-BH-TJ3" firstAttribute="leading" secondItem="bdw-Bq-QpY" secondAttribute="leading" type="default" id="sDo-TH-QGe"/>
                             <constraint firstItem="beN-mY-r0Y" firstAttribute="trailing" secondItem="qQK-rq-S5E" secondAttribute="trailing" type="default" id="ufa-Dm-E1E"/>
                             <constraint firstItem="Ph9-VD-LUS" firstAttribute="centerX" secondItem="k2m-ky-VaR" secondAttribute="centerX" type="default" id="uqE-KU-kMA"/>
                             <constraint firstItem="xSc-BS-Mti" firstAttribute="leading" secondItem="qwv-iB-Jpg" secondAttribute="leading" constant="48" id="ur0-E1-QL3"/>
+                            <constraint firstItem="4O7-qz-C8K" firstAttribute="top" secondItem="VJg-09-ChJ" secondAttribute="top" type="default" id="ux2-ba-oI8"/>
                             <constraint firstItem="aMb-nU-e4m" firstAttribute="top" secondItem="SLO-Kq-PNX" secondAttribute="top" type="default" id="vYj-oN-oWe"/>
                             <constraint firstItem="bdw-Bq-QpY" firstAttribute="top" secondItem="jJL-0Q-Bn5" secondAttribute="top" type="default" id="vcH-tW-wLA"/>
                             <constraint firstItem="CXi-Oz-nfN" firstAttribute="leading" secondItem="qwv-iB-Jpg" secondAttribute="leading" constant="282" id="wqr-CJ-rmA"/>
@@ -573,7 +579,7 @@ El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta 
                                     <constraint firstAttribute="height" constant="201" id="tkd-c7-ein"/>
                                 </constraints>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="boquitas.png" translatesAutoresizingMaskIntoConstraints="NO" id="kr0-16-YGe">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="sopas.png" translatesAutoresizingMaskIntoConstraints="NO" id="kr0-16-YGe">
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="BTu-0B-XDG"/>
                                 </constraints>
@@ -659,13 +665,16 @@ El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta 
         <image name="rotulo_chorizo.png" width="150" height="80"/>
         <image name="rotulo_huevo.png" width="150" height="80"/>
         <image name="rotulo_leche.png" width="150" height="80"/>
+        <image name="rotulo_mortadela.png" width="150" height="80"/>
         <image name="rotulo_pescado.png" width="150" height="80"/>
         <image name="rotulo_pollo.png" width="150" height="80"/>
         <image name="rotulo_queso.png" width="150" height="80"/>
         <image name="rotulo_res.png" width="150" height="80"/>
+        <image name="rotulo_salchicha.png" width="150" height="80"/>
         <image name="rotulo_salchichon.png" width="150" height="80"/>
         <image name="salchichas.png" width="201" height="200"/>
         <image name="salchichon.png" width="201" height="200"/>
+        <image name="sopas.png" width="201" height="200"/>
         <image name="titleTomate.png" width="201" height="118"/>
         <image name="tittleArroz.png" width="201" height="118"/>
         <image name="tittleChiverre.png" width="201" height="118"/>
@@ -684,6 +693,75 @@ El pollo lo desmenuzamos todo sin el pellejo y los huesos. Cuando la salsa esta 
         <image name="yuca.png" width="201" height="200"/>
         <image name="zanahoria.png" width="201" height="200"/>
     </resources>
+    <classes>
+        <class className="CarnesViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/CarnesViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="imgCarnes01" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes02" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes03" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes04" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes05" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes06" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes07" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes08" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes09" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes10" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes11" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCarnes12" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+        <class className="CategoriasViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/CategoriasViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="imgCategoria01" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCategoria02" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCategoria03" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCategoria04" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCategoria05" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgCategoria06" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+        <class className="ListaRecetasViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ListaRecetasViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="pListaRecetas" candidateClass="UITableView"/>
+            </relationships>
+        </class>
+        <class className="NSLayoutConstraint" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
+        </class>
+        <class className="PreparacionViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/PreparacionViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="actionTweet:"/>
+                <relationship kind="action" name="back_button:"/>
+                <relationship kind="action" name="fbButtonClicked:"/>
+                <relationship kind="outlet" name="ingredientesReceta" candidateClass="UITextView"/>
+                <relationship kind="outlet" name="mainImage" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="preparacionReceta" candidateClass="UITextView"/>
+                <relationship kind="outlet" name="tituloReceta" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="tweetButton" candidateClass="UIButton"/>
+            </relationships>
+        </class>
+        <class className="VegetalesViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/VegetalesViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="imgVegetales01" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales02" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales03" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales04" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales05" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales06" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales07" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales08" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales09" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales10" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales11" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="imgVegetales12" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackTranslucent"/>
         <simulatedOrientationMetrics key="orientation"/>

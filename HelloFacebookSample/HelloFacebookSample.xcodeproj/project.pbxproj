@@ -123,6 +123,9 @@
 		C96EEE82166BD825006F0306 /* appetitoso_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = C96EEE81166BD825006F0306 /* appetitoso_icon.png */; };
 		C96EEE84166BDA0A006F0306 /* fb.png in Resources */ = {isa = PBXBuildFile; fileRef = C96EEE83166BDA0A006F0306 /* fb.png */; };
 		C96EEE88166BDB7E006F0306 /* sopaTortillas.png in Resources */ = {isa = PBXBuildFile; fileRef = C96EEE87166BDB7E006F0306 /* sopaTortillas.png */; };
+		C98A5944166C136B00BF5DCF /* rotulo_salchicha.png in Resources */ = {isa = PBXBuildFile; fileRef = C98A5943166C136B00BF5DCF /* rotulo_salchicha.png */; };
+		C98A5947166C137100BF5DCF /* rotulo_mortadela.png in Resources */ = {isa = PBXBuildFile; fileRef = C98A5946166C137100BF5DCF /* rotulo_mortadela.png */; };
+		C98A5949166C13A900BF5DCF /* sopas.png in Resources */ = {isa = PBXBuildFile; fileRef = C98A5948166C13A900BF5DCF /* sopas.png */; };
 		C9A44C83166AAB6000F66F24 /* VegetalesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9A44C82166AAB6000F66F24 /* VegetalesViewController.m */; };
 		C9A44C8A166AB37700F66F24 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = C9A44C89166AB37700F66F24 /* background.png */; };
 		C9A44C8C166ABF5100F66F24 /* tomate.png in Resources */ = {isa = PBXBuildFile; fileRef = C9A44C8B166ABF5100F66F24 /* tomate.png */; };
@@ -274,6 +277,9 @@
 		C96EEE81166BD825006F0306 /* appetitoso_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appetitoso_icon.png; path = ../appetitoso_icon.png; sourceTree = "<group>"; };
 		C96EEE83166BDA0A006F0306 /* fb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb.png; sourceTree = "<group>"; };
 		C96EEE87166BDB7E006F0306 /* sopaTortillas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sopaTortillas.png; sourceTree = "<group>"; };
+		C98A5943166C136B00BF5DCF /* rotulo_salchicha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotulo_salchicha.png; sourceTree = "<group>"; };
+		C98A5946166C137100BF5DCF /* rotulo_mortadela.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rotulo_mortadela.png; sourceTree = "<group>"; };
+		C98A5948166C13A900BF5DCF /* sopas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sopas.png; sourceTree = "<group>"; };
 		C9A44C81166AAB6000F66F24 /* VegetalesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VegetalesViewController.h; sourceTree = "<group>"; };
 		C9A44C82166AAB6000F66F24 /* VegetalesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VegetalesViewController.m; sourceTree = "<group>"; };
 		C9A44C89166AB37700F66F24 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
@@ -388,6 +394,9 @@
 		5F6AF1941532A37B00DDBD75 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C98A5943166C136B00BF5DCF /* rotulo_salchicha.png */,
+				C98A5948166C13A900BF5DCF /* sopas.png */,
+				C98A5946166C137100BF5DCF /* rotulo_mortadela.png */,
 				C902168A166C095F00942CE4 /* adelante_carnes.png */,
 				C9F76AD8166BEEF300A3CC3E /* sopa_de_tortilla.png */,
 				C9F76AD6166BE97300A3CC3E /* sabias_que_tomate.png */,
@@ -702,6 +711,9 @@
 				C9F76AD7166BE97300A3CC3E /* sabias_que_tomate.png in Resources */,
 				C9F76AD9166BEEF300A3CC3E /* sopa_de_tortilla.png in Resources */,
 				C902168B166C095F00942CE4 /* adelante_carnes.png in Resources */,
+				C98A5944166C136B00BF5DCF /* rotulo_salchicha.png in Resources */,
+				C98A5947166C137100BF5DCF /* rotulo_mortadela.png in Resources */,
+				C98A5949166C13A900BF5DCF /* sopas.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
